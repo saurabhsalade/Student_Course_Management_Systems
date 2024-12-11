@@ -9,7 +9,7 @@ def connect_to_db():
         conn = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="Sahil@123",
+            password="Saurabh@123",
             database="udemy_courses"
         )
         return conn
